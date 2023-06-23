@@ -11,6 +11,8 @@ N/A
 
 ## Credits
 
-## licese
+## License
+N/A
+
 
 ## Screenshot
