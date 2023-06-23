@@ -74,7 +74,7 @@ p {
     margin-left: 20px;
 }
 
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -115,7 +115,7 @@ articleOne {
     text-align: center;
 }
 */
-img {
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
