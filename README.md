@@ -7,12 +7,13 @@ A refactoring of the horiseon webpage where the code as had semantics updated in
 N/A
 
 ## Usage
-
+https://kingkonathefirst.github.io/module-one-challenge/
 
 ## Credits
-
+N/A
 
 ## License
 N/A
 
 ## Screenshot
+![HoriseonScreenShot](./Assets/images/kingkonathefirst.github.io_module-one-challenge_.png)
